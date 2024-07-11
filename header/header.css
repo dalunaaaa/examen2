@@ -1,0 +1,35 @@
+.azucar {
+    display: flex;
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #4f3ac7;
+    border-radius: 2px;
+}
+
+.us {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.usuario {
+    font-size: 16px;
+}
+
+.btn_git {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 2px;
+    margin-left: auto;
+}
+
+.btn_git:hover {
+    background-color: #555;
+    text-decoration: none;
+}
