@@ -1,12 +1,14 @@
 .contenedor {
+    max-width: 375px; 
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     gap: 10px; 
-    width: 300px; 
+    width: 500px; 
     height: 400px; 
     border: 1px solid #000;
 }
 .grid {
+    
     background-color: #333333;
     color: #fff;
     display: flex;
